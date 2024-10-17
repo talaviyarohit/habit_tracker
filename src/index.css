@@ -1,0 +1,25 @@
+.navbar{
+    color: aliceblue !important;
+    font-size: large;
+  }
+  .navbar{
+    background-color: #827632 !important;
+  }
+  
+body {
+    font-family: Arial, sans-serif;
+    background-color: #d1be8d !important;
+  }
+  
+  h2 {
+    margin-top: 20px;
+  }
+  
+  .mt-4 {
+    margin-top: 2rem;
+  }
+  .habit{
+    background-color: #827632 !important;
+    color: aliceblue !important;
+    font-size:20px ;
+  }
